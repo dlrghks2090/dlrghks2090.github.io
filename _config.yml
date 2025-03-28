@@ -12,8 +12,6 @@ lang: ko
 timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
 title: Kan's 개발 블로그
 
 tagline: 학습, 트러블슈팅 및 개발하며 생긴 오류 및 해결책을 정리하고 있습니다.
